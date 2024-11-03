@@ -10,7 +10,7 @@ namespace YunusVeKayraConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("değişiklik yapıldı");
+            Console.WriteLine("değişiklik yapıldı 123");
             Console.ReadLine();
         }
     }
