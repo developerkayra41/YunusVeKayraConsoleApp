@@ -10,7 +10,7 @@ namespace YunusVeKayraConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("yunus kayra");
+            Console.WriteLine("yunus-kayra");
             Console.ReadLine();
         }
     }
