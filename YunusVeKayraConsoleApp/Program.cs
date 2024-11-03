@@ -10,8 +10,7 @@ namespace YunusVeKayraConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Merhaba Yunus. adding-hello-world branch'i eklenmiştir - 1");
-            Console.WriteLine("Bunu ekledim.");
+            Console.WriteLine("değişiklik yapıldı");
             Console.ReadLine();
         }
     }
