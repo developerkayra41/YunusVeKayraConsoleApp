@@ -11,7 +11,7 @@ namespace YunusVeKayraConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("yunus-kayra");
-            Console.WriteLine("test");
+            Console.WriteLine("test 1");
             Console.ReadLine();
         }
     }
