@@ -12,6 +12,7 @@ namespace YunusVeKayraConsoleApp
         {
             Console.WriteLine("yunus-kayra");
             Console.WriteLine("test 1");
+            Console.WriteLine("test 21");
             Console.ReadLine();
         }
     }
